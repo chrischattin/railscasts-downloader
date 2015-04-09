@@ -6,10 +6,10 @@ require 'nokogiri'
 require 'open-uri'
 
 
-SUBSCRIPTION_KEY = '*****your subscription key here ***********'
+SUBSCRIPTION_KEY = '****************'
 RSS_URI = 'http://railscasts.com/subscriptions/' + SUBSCRIPTION_KEY + '/episodes.rss'
 
-SAVE_PATH = '~/railscastsdownloader/episodes'
+SAVE_PATH = '~/railscasts-downloader/episodes'
 VIDEO_FORMAT = '.mp4' # modify to whatever format you prefer (and is supported)
 
 CURRENT_DOWNLOADS = Dir["#{SAVE_PATH}/*#{VIDEO_FORMAT}"]
