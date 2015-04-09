@@ -10,7 +10,7 @@ $ git clone https://github.com/chrischattin/railscasts-downloader.git
 $ gem install nokogiri
 ```
 
-Edit `download.rb` with your [railscasts.com](http://railscasts.com/) subscription key in place of the `***` under `SUBSCRIPTION_KEY`.
+Replace `SUBSCRIPTION_KEY = '****************'` with your [railscasts.com](http://railscasts.com/) subscription key.
 
 Then,
 
