@@ -17,6 +17,8 @@ Then,
 ```
 $ cd railscasts-downloader
 
+$ mkdir episodes
+
 $ ruby download.rb
 ```
 
