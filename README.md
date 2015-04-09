@@ -29,7 +29,7 @@ $ railscasts-downloader/episodes
 
 ## Credits
 
-Borrowed heavily (mostly copied) from clekstro.
+Borrowed heavily (mostly copied) from [clekstro](https://github.com/clekstro).
 
 ## License
 
